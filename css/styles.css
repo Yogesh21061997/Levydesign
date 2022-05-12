@@ -52,6 +52,7 @@ a.hover{
 }
 
 .info {
+  font-size: 1.6rem;
   width: 30%;
   margin: auto;
 }
@@ -92,6 +93,12 @@ a.hover{
 }
 .copyright{
   color:#7FB5FF;
+}
+.service{
+font-size: 1.6rem;
+}
+.tools{
+  font-size: 1.6rem;
 }
 
 .btn {
